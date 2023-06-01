@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
   - name: hello
-    image: hello-world:latest
+    image: busybox:latest
