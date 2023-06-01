@@ -5,7 +5,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 
+    repoURL: https://github.com/sumansrivastava/hello-world.git
     path: /
     targetRevision: HEAD
   destination:
